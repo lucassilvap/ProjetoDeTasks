@@ -6,62 +6,99 @@ package main.java.com.example;
  * the list. Print out again.
  *
  */
+
+/* Essa classe representa um nó na lista
+int data armazena dados do nó
+p referencia para o nó anterior
+n referencia para o proximo nó
+o construtor cria um novo nó com o dado fornecido
+*/
 class Node {
     int data;
-    Node previous;
-    Node next;
+    Node p;
+    Node n;
 
-    public Node(int data) {
-        this.data = data;
+    public Node(int value) {
+        this.data = value;
     }
 }
 
-class DoublyLinkedList {
-    Node head;
-    Node tail;
 
+/*Essa classe implementa uma lista duplamente encadeada
+h representa o primeiro nó da lista
+l representa o ultimo nó da lista
+*
+* */
+class DoublyLinkedList {
+    Node h;
+    Node l;
+
+
+    /*
+    Adiciona um novo nó no final da lista
+    Se a lista estiver vazia o novo nó se torna a cabeca h e também o ultimo nó o l.
+    Se a lista não estiver vazia o novo no é adicionado após o ultimo nó e a referencia
+    n do ultimo nó é atualizada para o novo nó a referencia p e atualizada para o antigo ultimo nó
+    Então o novo nó se torna a cauda(ultimo nó) da lista duplamente encadeada
+    */
     public void add(int data) {
         Node newNode = new Node(data);
-        if (head == null) {
-            head = newNode;
-            tail = newNode;
+        if (h == null) {
+            h = newNode;
+            l = newNode;
         } else {
-            tail.next = newNode;
-            newNode.previous = tail;
-            tail = newNode;
+            l.n = newNode;
+            newNode.p = l;
+            l = newNode;
         }
     }
 
+
+    /*
+      Aponta pra cabeça da lista imprime o item e depois passa pro próximo item
+      da lista até que a referencia seja nula
+     */
     public void printList() {
-        Node current = head;
+        Node current = h;
         System.out.print("List ");
         while (current != null) {
             System.out.print(current.data + " ");
-            current = current.next;
+            current = current.n;
         }
         System.out.println();
     }
 
+
+    /*Remove o item do meio da lista duplamente encadeada
+    * Dois ponteiros são usados um s que é lento e um f que é rapido que avança 2x mais rapido que o s
+    * Quando o f chega no final da lista o s estára no meio da lista
+    * Se a lista estiver vazia não há motivo para remoção
+    * Se o nó meio for a cabeça , a cabeça e movida para o próximo nó
+    * Se o nó meio for o final da lista, ou seja, a cauda, o nó do final da lista é movido para o anterior
+    * Se o nó meio estiver entre a cabeça e o nó final da lista, ou seja , a cauda, os nós anteriores e posterior
+    * ao nó do meio não vão apontar para o nó do meio , assim removendo ele da lista
+    *
+    *  */
     public void removeMiddle() {
-        if (head == null || head.next == null) {
+        if (h == null || h.n == null) {
             System.out.println("List is empty or contain a unique element");
             return;
         }
-        Node slow = head;
-        Node fast = head;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        Node s = h;
+        Node f = h;
+        while (f != null && f.n != null) {
+            s = s.n;
+            f = f.n.n;
         }
-        if (slow == head) {
-            head = head.next;
+        if (s == h) {
+            h = h.n;
         } else {
-            slow.previous.next = slow.next;
+            s.p.n = s.n;
         }
-        if (slow == tail) {
-            tail = tail.previous;
+        if (s == l) {
+            l = l.p;
         } else {
-            slow.next.previous = slow.previous;
+            s.n.p = s.p;
         }
     }
 }
@@ -70,6 +107,7 @@ class DoublyLinkedList {
 public class TASK2 {
     public static void main(String[] args) {
         DoublyLinkedList list = new DoublyLinkedList();
+        //Adiciona numeros na lista
         list.add(1);
         list.add(2);
         list.add(3);
@@ -80,8 +118,11 @@ public class TASK2 {
         list.add(8);
         list.add(9);
         list.add(10);
+        //Printa a lista primeiro
         list.printList();
+        //Remove o item do meio
         list.removeMiddle();
+        //Printa a lista novamente
         list.printList();
     }
 }
