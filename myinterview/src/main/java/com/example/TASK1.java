@@ -22,6 +22,12 @@ public class TASK1 {
         int lengthPhrase = phrase.length();
 
         // verifica se a frase é um palindrome
+        //o loop percorre metade da frase.
+        //Dentro do loop ele verifica se o caractere na posição i é diferente do caractere
+        // no final da frase. Se forem diferentes ele retorna false
+        //  o loop verifica caractere por caractere ate a metade da frase.
+        // Se ele terminar o loop sem encontrarar caracteres diferentes. Significa que é um
+        // palimdromo. Então ele retornar true após o loop
         for (int i = 0; i < lengthPhrase / 2; i++) {
             if (phrase.charAt(i) != phrase.charAt(lengthPhrase - i - 1)) {
                 return false;
