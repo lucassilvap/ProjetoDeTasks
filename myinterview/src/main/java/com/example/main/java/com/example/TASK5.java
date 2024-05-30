@@ -187,7 +187,7 @@ abstract class PersonSpecification{
     }
 
     private static Specification<Person> Byprofession(String profession){
-        return (root, cq, cb) -> cb.like(cb.upper(root.get("profession")), "%"+ profession.toUpperCase() +"%");
+        return (root, cq, cb) -> cb.like(cb.upper(root.get("profession")),  profession.toUpperCase());
     }
 
     public static Specification<Person> spec(Optional<Integer> age, Optional<String> profession){
