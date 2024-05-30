@@ -246,7 +246,7 @@ class IdNotFoundException extends ResponseStatusException {
 
 @Configuration
 @EnableSpringDataWebSupport(pageSerializationMode = EnableSpringDataWebSupport.PageSerializationMode.VIA_DTO)
- class MySpringDataConfiguration {
+ class MySpringConfiguration {
 
 }
 
