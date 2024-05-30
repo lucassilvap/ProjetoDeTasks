@@ -29,7 +29,7 @@ h representa o primeiro nó da lista
 l representa o ultimo nó da lista
 *
 * */
-class DoublyLinkedList {
+class DoublyList {
     Node h;
     Node l;
 
@@ -106,7 +106,7 @@ class DoublyLinkedList {
 
 public class TASK2 {
     public static void main(String[] args) {
-        DoublyLinkedList list = new DoublyLinkedList();
+        DoublyList list = new DoublyList();
         //Adiciona numeros na lista
         list.add(1);
         list.add(2);
