@@ -224,10 +224,6 @@ abstract class PersonSpecification{
         return PageRequest.of(pageDefault, sizeDefault);
     }
 
-    public PageImpl<Person> pageImp (List<Person> personList, Page<Person> page){
-        return new PageImpl<Person>(personList, page.getPageable(), page.getTotalElements());
-    }
-
 }
 
 class NameMustBeUniqueException extends ResponseStatusException {
