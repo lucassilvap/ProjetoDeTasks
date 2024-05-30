@@ -14,6 +14,11 @@ package main.java.com.example;
  */
 public class TASK1 {
 
+    public static void main(String[] args) {
+        System.out.println(isPalindrome("ANA"));
+        System.out.println(isPalindrome("Lucas"));
+    }
+
     public static boolean isPalindrome(String phrase){
         /* remove todos os espaços da frase e coloca tudo em letra maiscula */
         phrase = phrase.replaceAll("\\s+", "").toUpperCase();

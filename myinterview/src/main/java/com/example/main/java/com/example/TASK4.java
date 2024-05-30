@@ -86,7 +86,7 @@ public class TASK4 {
         PutObjectRequest request = new PutObjectRequest(bucketName, filePath, inputStream, metadata);
         s3Client.putObject(request);
 
-        System.out.println("Dados salvos com sucesso no Amazon S3.");
+        System.out.println("Dados salvos no Amazon S3");
     }
 
 
