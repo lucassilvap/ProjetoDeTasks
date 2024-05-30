@@ -1,5 +1,7 @@
 package main.java.com.example;
 
+import com.amazonaws.services.s3.AmazonS3;
+
 /**
  * Create an implementation of a Rest API client.
  * Prints out how many records exists for each gender and save this file to s3 bucket
@@ -8,5 +10,9 @@ package main.java.com.example;
  *
  */
 public class TASK4 {
+    public static void main(String[] args) {
+
+
+    }
 
 }
