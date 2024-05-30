@@ -90,9 +90,6 @@ class PersonController {
     @Autowired
     private PersonService personService;
 
-    @Autowired
-    private PageCreate pageCreate;
-
     @GetMapping("{id}")
     public ResponseEntity<?> findById(@PathVariable(name = "id") Long id){
         return ResponseEntity.ok(personService.findById(id));
