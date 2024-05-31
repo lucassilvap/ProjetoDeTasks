@@ -1,0 +1,30 @@
+1 - Query que retorna a quantidade de funcionários separados por sexo
+
+SELECT gender , COUNT(*) as amount 
+FROM employees_2 
+GROUP BY gender;
+
+
+2 - Query que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
+
+SELECT gender, 
+       YEAR(birth_date) as birth_date, 
+       YEAR(hire_date) as hire_date, 
+       COUNT(DISTINCT emp_no) as amount
+FROM employees_2 
+GROUP BY gender, YEAR(birth_date), YEAR(hire_date);
+
+3 - Query que retorna a média,min e max de salário por sexo.
+
+SELECT gender, 
+       YEAR(birth_date) as birth_date, 
+       YEAR(hire_date) as hire_date, 
+       COUNT(DISTINCT emp_no) as amount
+FROM employees_2 
+GROUP BY gender, YEAR(birth_date), YEAR(hire_date);
+
+
+
+
+
+
