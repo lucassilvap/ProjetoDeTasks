@@ -90,22 +90,11 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 ## Task Sobre sql: Testando a conexão do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/0d6906ee-9618-4188-bc3c-9d69ca149efd" width="700px"/>
 
-## Task Query que retorna a quantidade de funcionários separados por sexo
+## Task de consulta que retorna a quantidade de funcionários separados por sexo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/b6be312b-0393-4cae-b8d3-7787db992ba5" width="700px"/>
 
-## Task Query que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
+## Task de consulta que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/3ef48548-8393-4586-b8b6-426eda5a0f6a" width="700px"/>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
