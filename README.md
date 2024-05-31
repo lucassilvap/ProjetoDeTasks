@@ -36,12 +36,28 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
- # Título do Projeto : Tasks Digiage
+  # Título do Projeto : Tasks Digiage
  # Descrição do projeto : Tasks for Digiage
 
  ## Linguagem e tecnologias utilizadas
- 
- ## Task 1:  É um palindromo
+1. Java 22(linguagem de programação)
+2. Maven(ferramenta de automação)
+
+ ### Dependências
+1. spring-boot-starter-parent (inclui configurações para um projeto spring boot)
+2. spring-boot-starter-web (fornece o que é necessário pra um desenvolvimento de um app web)
+3. aws-java-sdk-s3 (permite gerenciar objetos armazenados na amazon s3
+4. httpclient (utilizada para fazer conexões http em Java) 
+5. gson(converte Objetos em Json)
+6. h2(banco de dados em memória pra salvar os dados)
+7. spring-boot-starter-data-jpa(Necessário para lidar com as manipulações de dados no banco de dados)
+8. jaxb-api (permite converter objetos Java em jml e também o inverso
+
+
+
+
+
+  ## Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
 
   ## Task 2: Remova o item do meio da lista 
@@ -70,6 +86,11 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
 ## Task 5: Deletando uma pessoa do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/59c0420a-e582-42f9-890f-24ec143b6b01" width="700px"/>
+
+
+## Task Sobre sql: Testando a conexão do banco de dados
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/0d6906ee-9618-4188-bc3c-9d69ca149efd" width="700px"/>
+
 
 
 
