@@ -62,3 +62,9 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
 ## Task 5: Buscando usuários por filtragem dinâmica com os parâmetros idade e profissão e páginando
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/1f79d194-2dc0-4f2a-a277-e4c845bbbd62" width="700px"/>
+
+## Task 5: Atualizando pessoa
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/4295dc4b-cb25-4ec6-87af-c1cb49dc58ce" width="700px"/>
+
+
+
