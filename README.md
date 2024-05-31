@@ -95,3 +95,9 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
 ## Task de consulta que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/3ef48548-8393-4586-b8b6-426eda5a0f6a" width="700px"/>
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 92251391d90a48f059557608c9890ff64bc0c10c

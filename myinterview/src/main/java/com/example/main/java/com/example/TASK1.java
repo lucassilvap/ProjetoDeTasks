@@ -15,8 +15,10 @@ package main.java.com.example;
 public class TASK1 {
 
     public static void main(String[] args) {
-        System.out.println(isPalindrome("ANA"));
-        System.out.println(isPalindrome("Lucas"));
+        String name1= "Ana";
+        String name2 = "Lucas";
+        System.out.println("Esse nome é um palindrome ? " + name1 +":"+ isPalindrome(name1));
+        System.out.println("Esse nome é um palindrome ? " + name2 +":"+ isPalindrome(name2));
     }
 
     public static boolean isPalindrome(String phrase){
