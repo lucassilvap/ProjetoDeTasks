@@ -39,16 +39,16 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
  # Título do Projeto : Tasks Digiage
  
-  # Task 1:  É um palindromo
+  ## Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
 
-  # Task 2: Remova o item do meio da lista 
+  ## Task 2: Remova o item do meio da lista 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"/>
 
-  # Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
+  ## Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94"/>
 
-  # Task 5: Crie uma api rest
+  ## Task 5: Crie uma api rest
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/69dcfda5-bdfe-4e1b-9da1-4af81fcf8b19" width="700px"/>
 
   ## Task 5: Salvando um usuário no banco de dados
