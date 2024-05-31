@@ -36,7 +36,7 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
-  # Título do Projeto : Tasks Digiage
+ # Título do Projeto : Tasks Digiage
  # Descrição do projeto : Tasks for Digiage
 
  ## Linguagem e tecnologias utilizadas
