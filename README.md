@@ -44,7 +44,7 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 </div>
 
 <div align="center">
-  <h1>Task 2: Remova o item do meio da lista <h1/>
+  ## Task 2: Remova o item do meio da lista 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"
 </div>
 
