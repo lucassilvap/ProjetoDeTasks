@@ -36,19 +36,14 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
-# Título do Projeto : Tasks Rodando
 
-<div align="center">
-  ## Task 1:  É um palindromo
+ # Título do Projeto : Tasks Digiage
+ 
+  # Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
-</div>
 
-<div align="center">
-  ## Task 2: Remova o item do meio da lista 
-<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"
-</div>
+  # Task 2: Remova o item do meio da lista 
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"/>
 
-<div align="center">
-  ## Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
-<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94" />
-</div>
+  # Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94"/>
