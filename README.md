@@ -36,9 +36,14 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
-
  # Título do Projeto : Tasks Digiage
  # Descrição do projeto : Tasks for Digiage
+
+ ## Linguagem e tecnologias utilizadas
+
+1. teste
+2. test2
+3. test3
  
   ## Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
@@ -69,6 +74,11 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
 ## Task 5: Deletando uma pessoa do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/59c0420a-e582-42f9-890f-24ec143b6b01" width="700px"/>
+
+
+
+
+
 
 
 
