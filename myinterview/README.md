@@ -59,5 +59,8 @@
 ## Task de consulta que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/3ef48548-8393-4586-b8b6-426eda5a0f6a" width="700px"/>
 
+## Task de consulta que retorna a média,min e max de salário por sexo.
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/4f4deae5-43eb-4a50-bd93-16259de1a6db" width="700px"/>
+
 
 
