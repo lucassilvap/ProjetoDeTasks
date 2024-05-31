@@ -57,14 +57,18 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
  ## Task 5: Buscando um usuário no banco de dados por id
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/88fd9289-071a-4955-8b7c-79fae48bba17" width="700px"/>
 
-## Task 5: Buscando todos os usuários
+## Task 5: Buscando todos os usuários do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/fdf9738b-9fd5-4965-8a98-c96c86cfd8f7" width="700px"/>
 
 ## Task 5: Buscando usuários por filtragem dinâmica com os parâmetros idade e profissão e páginando
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/1f79d194-2dc0-4f2a-a277-e4c845bbbd62" width="700px"/>
 
-## Task 5: Atualizando pessoa
+## Task 5: Atualizando uma do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/4295dc4b-cb25-4ec6-87af-c1cb49dc58ce" width="700px"/>
+
+## Task 5: Deletando uma pessoa do banco de dados
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/59c0420a-e582-42f9-890f-24ec143b6b01" width="700px"/>
+
 
 
 
