@@ -56,3 +56,6 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
  ## Task 5: Buscando um usuário no banco de dados por id
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/88fd9289-071a-4955-8b7c-79fae48bba17" width="700px"/>
+
+## Task 5: Buscando todos os usuários
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/fdf9738b-9fd5-4965-8a98-c96c86cfd8f7" width="700px"/>
