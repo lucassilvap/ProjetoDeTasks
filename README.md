@@ -51,5 +51,5 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
   # Task 5: Crie uma api rest
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/69dcfda5-bdfe-4e1b-9da1-4af81fcf8b19" width="700px"/>
 
-  ## Task 5: Salvando um usuário no banco
+  ## Task 5: Salvando um usuário no banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/70a3b3f2-1beb-48c8-b29a-67aa59b53237" width="700px"/>
