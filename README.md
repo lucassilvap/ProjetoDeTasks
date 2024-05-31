@@ -39,7 +39,7 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 # Título do Projeto : Tasks Rodando
 
 <div align="center">
-  <h1>Task 1:  É um palindromo<h1/>
+  ## Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
 </div>
 
