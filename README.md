@@ -47,3 +47,6 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
   # Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94"/>
+
+  # Task 5: Crie uma api rest
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/69dcfda5-bdfe-4e1b-9da1-4af81fcf8b19" width="700px"/>
