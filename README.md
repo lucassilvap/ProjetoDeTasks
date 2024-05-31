@@ -53,3 +53,6 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
   ## Task 5: Salvando um usuário no banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/70a3b3f2-1beb-48c8-b29a-67aa59b53237" width="700px"/>
+
+ ## Task 5: Buscando um usuário no banco de dados por id
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/88fd9289-071a-4955-8b7c-79fae48bba17" width="700px"/>
