@@ -60,7 +60,7 @@ class DoublyList {
      */
     public void printList() {
         Node current = h;
-        System.out.print("List ");
+        System.out.print("List: ");
         while (current != null) {
             System.out.print(current.data + " ");
             current = current.n;

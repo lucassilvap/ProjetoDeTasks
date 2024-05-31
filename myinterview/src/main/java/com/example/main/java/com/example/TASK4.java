@@ -49,9 +49,6 @@ public class TASK4 {
             /* O BodyHandlers.ofString significa que queremos tratar o corpo da resposta como uma string*/
             HttpResponse<String> resp = c.send(request, HttpResponse.BodyHandlers.ofString());
 
-            /*Aqui o corpo da resposta é imprimido no console*/
-            System.out.println(resp.body().toString());
-
             /*A resposta é convertida em um json array */
             JsonArray jsonA= new Gson().fromJson(resp.body(), JsonArray.class);
 

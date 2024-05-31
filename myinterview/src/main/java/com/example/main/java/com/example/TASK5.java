@@ -187,7 +187,9 @@ class PersonService{
     * id gerenciado a entidade e atualizada */
     public Person update(Long id, Person person) {
         Person person1 = findById(id);
-        validPersonName(person.getName());
+        if (!person1.getName().equalsIgnoreCase(person.getName())){
+            validPersonName(person.getName());
+        }
         person.setId(person1.getId());
         return personRepository.save(person);
     }
