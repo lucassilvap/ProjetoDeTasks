@@ -16,12 +16,17 @@ GROUP BY gender, YEAR(birth_date), YEAR(hire_date);
 
 3 - Query que retorna a média,min e max de salário por sexo.
 
-SELECT gender, 
-       YEAR(birth_date) as birth_date, 
-       YEAR(hire_date) as hire_date, 
-       COUNT(DISTINCT emp_no) as amount
-FROM employees_2 
-GROUP BY gender, YEAR(birth_date), YEAR(hire_date);
+SELECT 
+    e.gender,
+    AVG(s.salary) AS average_salary,
+    MIN(s.salary) AS minimum_salary,
+    MAX(s.salary) AS maximum_salary
+FROM 
+    employees_2 e
+INNER JOIN 
+    salaries s ON s.emp_no = e.emp_no
+GROUP BY 
+    e.gender;
 
 
 
