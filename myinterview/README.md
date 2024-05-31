@@ -5,6 +5,7 @@
  ## Linguagem e tecnologias utilizadas
 1. Java 22(linguagem de programação)
 2. Maven(ferramenta de automação)
+3. Spring boot(criação de api rest)
 
  ### Dependências
 1. spring-boot-starter-parent (inclui configurações para um projeto spring boot)
@@ -16,11 +17,14 @@
 7. spring-boot-starter-data-jpa(Necessário para lidar com as manipulações de dados no banco de dados)
 8. jaxb-api (permite converter objetos Java em jml e também o inverso
 
+### Como instalar e usar o projeto (instruções)
+1. Tenha a jdk 22 do java instalada, pois foi nessa versão que criei as aplicações
+2. Use o git clone git@github.com:lucassilvap/ProjetoDeTasksEmpresaDigiage.git
+3. Estando no diretório onde clonou o projeto rode mvn clean install
+4. Agora só abrir o projeto e rodar as aplicações
+
 ### Este é um desafio de Coodesh
-
-
-
-
+<br>
 
   ## Task 1:  É um palindromo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
