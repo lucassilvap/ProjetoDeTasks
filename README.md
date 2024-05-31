@@ -36,7 +36,7 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
-  # Título do Projeto : Tasks Digiage
+ # Título do Projeto : Tasks Digiage
  # Descrição do projeto : Tasks for Digiage
 
  ## Linguagem e tecnologias utilizadas
@@ -87,9 +87,13 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 ## Task 5: Deletando uma pessoa do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/59c0420a-e582-42f9-890f-24ec143b6b01" width="700px"/>
 
-
 ## Task Sobre sql: Testando a conexão do banco de dados
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/0d6906ee-9618-4188-bc3c-9d69ca149efd" width="700px"/>
+
+## Task Query que retorna a quantidade de funcionários separados por sexo
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/b6be312b-0393-4cae-b8d3-7787db992ba5" width="700px"/>
+
+
 
 
 
