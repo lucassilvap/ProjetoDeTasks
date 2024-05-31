@@ -40,3 +40,8 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
   <h1>Task 1 é um palindromo<h1/>
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
 </div>
+
+<div align="center">
+  <h1>Task 2 remover um item do meio da lista duplamente encadeada<h1/>
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"
+</div>
