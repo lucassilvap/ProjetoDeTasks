@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

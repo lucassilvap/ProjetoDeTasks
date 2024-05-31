@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 /**
  * A very basic program that demonstrates the use of JUnit tests. The tests include a sample unit test and an

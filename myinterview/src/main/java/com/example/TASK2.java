@@ -1,4 +1,4 @@
-package main.java.com.example;
+package com.example;
 
 /**
  * Task here is to write a list. Each element must know the element before and
