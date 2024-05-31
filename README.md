@@ -47,6 +47,6 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 </div>
 
 <div align="center">
-  <h2>Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 <h2/>
-<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94" width="700px" />
+  <h1>Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 <h1/>
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94" />
 </div>
