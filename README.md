@@ -36,6 +36,8 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
+# Título do Projeto : Tasks Rodando
+
 <div align="center">
   <h1>Task 1:  É um palindromo<h1/>
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
@@ -47,6 +49,6 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 </div>
 
 <div align="center">
-  <h1>Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 <h1/>
+  ## Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94" />
 </div>
