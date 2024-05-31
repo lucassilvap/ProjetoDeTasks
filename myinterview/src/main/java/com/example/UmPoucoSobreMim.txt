@@ -1,0 +1,5 @@
+Olá, tudo bem? Espero que sim. Sou o Lucas, tenho 26 anos e gosto de alguns temas, como cinema e jogos.
+Em particular, sou um grande fã dos filmes da Marvel.
+Quanto à minha carreira, venho programando em Java desde o meu curso técnico. Ao longo da faculdade e nas empresas por onde passei, tive a oportunidade de trabalhar com uma variedade de tecnologias.
+Isso inclui tanto o desenvolvimento em Java com tecnologias legadas quanto a utilização do Java com Spring Boot, que é uma tecnologia mais moderna.
+
