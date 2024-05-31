@@ -45,3 +45,8 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
   <h1>Task 2: Remova o item do meio da lista <h1/>
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"
 </div>
+
+<div align="center">
+  <h2>Task 4: Imprime quantos registros existem para cada gênero e salva este arquivo no bucket s3 <h2/>
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94" width="700px" />
+</div>
