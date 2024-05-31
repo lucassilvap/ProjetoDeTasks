@@ -37,6 +37,6 @@
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
 <div align="center">
-  <h1>Task 1 é um palimdromo<h1/>
+  <h1>Task 1 é um palindromo<h1/>
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/f5010363-b50b-4d50-b09b-c22ed1556e0c" width="700px" />
 </div>
