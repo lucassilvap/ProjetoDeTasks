@@ -36,7 +36,7 @@
 
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send a message directly to a specialist in the platform chat.
 
- # Título do Projeto : Tasks Digiage
+  # Título do Projeto : Tasks Digiage
  # Descrição do projeto : Tasks for Digiage
 
  ## Linguagem e tecnologias utilizadas
@@ -92,6 +92,11 @@ Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the pr
 
 ## Task Query que retorna a quantidade de funcionários separados por sexo
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/b6be312b-0393-4cae-b8d3-7787db992ba5" width="700px"/>
+
+## Task Query que retorna a quantidade de funcionarios distintos por sexo, ano e ano de nascimento
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/3ef48548-8393-4586-b8b6-426eda5a0f6a" width="700px"/>
+
+
 
 
 
