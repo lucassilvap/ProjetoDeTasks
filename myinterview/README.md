@@ -32,6 +32,9 @@
   ## Task 2: Remova o item do meio da lista 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/676089fa-b516-4716-a469-b6213bba6e45"/>
 
+  ## Task 3: Contar quantos itens distintos existem na lista
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/28ab214f-1e61-4df7-abbd-6b0315dd7085"/>
+
   ## Task 4: Imprime quantos registros existem para cada gênero e salvar esse arquivo no bucket s3 
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/d9633641-29c8-49f6-a557-46c1f087bf94"/>
 
