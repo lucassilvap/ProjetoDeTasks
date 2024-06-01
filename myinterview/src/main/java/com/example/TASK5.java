@@ -218,7 +218,7 @@ abstract class PersonSpecification{
 
     /*Faz a consulta por profissao */
     private static Specification<Person> Byprofession(String profession){
-        return (root, cq, cb) -> cb.like(cb.upper(root.get("profession")),  profession.toUpperCase());
+        return (root, cq, cb) -> cb.like(cb.upper(root.get("profession")), "%" + profession.toUpperCase()  + "%");
     }
 
     /*Verifica quais parametros estão presentes e faz a contetanação das consultas */
