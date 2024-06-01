@@ -1,0 +1,41 @@
+=====================================================================================================================================
+Memória e cpu
+=====================================================================================================================================
+A cpu teve seu pico de uso por volta das 17:10 chegando a 26 % do uso do total, ou seja, horário que está ocorrendo mais processamento.
+A partir das 19:10 o uso da cpu foi caindo chegando a 2,65% às 22:30.
+A memória teve seu pico de uso às 19:30, chegando a 27% do uso.
+======================================================================================================================================
+==================================================================================================================================
+Login e login (-1 hora)
+Das 22:50 até às 23:00 o login em azul se manteve entre 20 e 25. Após isso ele começou a cair e as 23:05 ele marca
+17,8
+O login rosa teve seu pico de valor 30 ás 22:59:40.
+Depois caiu por volta das 23:05 pra 27.1. E depois se estabilizou por volta das 23:10 com valores por volta de 25 a 28
+====================================================================================================================================
+Memoria
+100 bilhões até o momento de uso de memória
+==============================================
+Acesso do google
+50,1
+==================================================
+Chamadas de suporte 82,8
+==================================================
+solicitações de servidor
+servidor_web_01: Teve um pico de 33 às 21:12
+servidor_web_02: Teve um pico de 33,5 às 21:13
+servidor_web_03: Teve  um pico de 30,09 às 21:13
+servidor_web_04: Teve um pico de 31,5 às  21:13
+==================================================
+Acessos do google
+Uma serie: 2,46%
+Série b: 40,6%
+Série c: 33,2 %
+Série d: 1,61%
+Série e: 87,3 % 
+
+
+
+
+
+
+	
