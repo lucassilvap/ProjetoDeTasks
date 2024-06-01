@@ -1,5 +1,7 @@
 package com.example;
 
+import java.util.Scanner;
+
 /**
  * Task here is to write a list. Each element must know the element before and
  * after it. Print out your list and them remove the element in the middle of
@@ -107,22 +109,34 @@ class DoublyList {
 public class TASK2 {
     public static void main(String[] args) {
         DoublyList list = new DoublyList();
-        //Adiciona numeros na lista
-        list.add(1);
-        list.add(2);
-        list.add(3);
-        list.add(4);
-        list.add(5);
-        list.add(6);
-        list.add(7);
-        list.add(8);
-        list.add(9);
-        list.add(10);
-        //Printa a lista primeiro
+        /*Objeto para capturar a entrada do usuário */
+        Scanner scanner = new Scanner(System.in);
+
+        /*Quantos números o usuário deseja adicionar a lista */
+        System.out.println("Quantos números você deseja adicionar à lista? ");
+        int numberOfItems = scanner.nextInt();
+
+        /*Indiciando a quantidade de números que ele especificou anteriormente para adicionar a lista*/
+        System.out.println("Digite " + numberOfItems + " números para adicionar à lista dupla:");
+
+        /* Captura os numeros digitados */
+        for (int i = 0; i < numberOfItems; i++) {
+            System.out.print("Número " + (i + 1) + ": ");
+            int number = scanner.nextInt();
+            list.add(number);
+        }
+
+        /*Imprime a lista original*/
+        System.out.println("Lista original:");
         list.printList();
-        //Remove o item do meio
+
+        /*Remove o item do meio*/
         list.removeMiddle();
-        //Printa a lista novamente
+
+        /*Printa a lista novamente com a remoção do item do meio*/
+        System.out.println("Lista após remover o item do meio:");
         list.printList();
+
+        scanner.close();
     }
 }

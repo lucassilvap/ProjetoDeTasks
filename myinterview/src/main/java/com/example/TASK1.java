@@ -1,5 +1,7 @@
 package com.example;
 
+import java.util.Scanner;
+
 /**
  *
  *
@@ -15,10 +17,12 @@ package com.example;
 public class TASK1 {
 
     public static void main(String[] args) {
-        String name1= "Ana";
-        String name2 = "Lucas";
-        System.out.println("Esse nome é um palindrome ? " + name1 +":"+ isPalindrome(name1));
-        System.out.println("Esse nome é um palindrome ? " + name2 +":"+ isPalindrome(name2));
+        /*Cria um scanner pra ler a entrada do sistema System.in*/
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Digite algo pra verificar se é um palindrome:");
+        /*Armazena o que o usuário digita na string value*/
+        String value = scanner.nextLine();
+        System.out.println("Esse nome é um palindrome ? " + value +":"+ isPalindrome(value));
     }
 
     public static boolean isPalindrome(String phrase){

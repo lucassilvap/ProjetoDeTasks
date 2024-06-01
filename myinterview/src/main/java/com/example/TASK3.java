@@ -28,10 +28,6 @@ public class TASK3 {
        listOfRandomNumbers.forEach(System.out::println);
        System.out.println("Número de itens distintos: " + set.size());
 
-
-
-
-
     }
 
 }
