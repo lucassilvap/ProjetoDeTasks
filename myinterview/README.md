@@ -69,4 +69,8 @@
 <img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/4f4deae5-43eb-4a50-bd93-16259de1a6db" width="700px"/>
 
 
+## Task de análise de gráfico
+<img src="https://github.com/lucassilvap/ProjetoDeTasksEmpresaDigiage/assets/92272692/3b1d5e7d-1541-4daa-b019-53fb29736145" width="700px"/>
+
+
 
